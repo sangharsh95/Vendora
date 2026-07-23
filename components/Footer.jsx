@@ -32,9 +32,9 @@ const Footer = () => {
         {
             title: "CONTACT",
             links: [
-                { text: "+1-212-456-7890", path: 'tel:+12124567890', icon: PhoneIcon },
-                { text: "contact@example.com", path: 'mailto:contact@example.com', icon: MailIcon },
-                { text: "794 Francisco, 94102", path: '#', icon: MapPinIcon }
+                { text: "+91 95069 xxxxx", path: 'tel:+9195069xxxxx', icon: PhoneIcon },
+                { text: "contact@example.com", path: 'mailto:singhsangharshyxx@gmai.com', icon: MailIcon },
+                { text: "BBDNIIT, Lucknow", path: '#', icon: MapPinIcon }
             ]
         }
     ];
@@ -80,7 +80,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <p className="py-4 text-sm text-slate-500">
-                    Copyright 2026 © Vendora All Right Reserved by Sangharsh Singh Yadav.
+                    Copyright 2026 © Vendora All Right Reserved by Sangharsh Singh Yadav and Team.
                 </p>
             </div>
         </footer>

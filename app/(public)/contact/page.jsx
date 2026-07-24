@@ -19,7 +19,7 @@ export default function ContactPage() {
                             </div>
                             <h3 className="font-bold text-slate-900 text-lg mb-1">Email Us</h3>
                             <p className="text-slate-500 text-sm mb-3">Drop us a line anytime.</p>
-                            <a href="mailto:support@Vendoracom" className="text-emerald-600 font-semibold hover:underline">support@Vendoracom</a>
+                            <a href="mailto:support@Vendoracom" className="text-emerald-600 font-semibold hover:underline">support@Vendora.com</a>
                         </div>
                         
                         <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 flex flex-col items-center text-center hover:-translate-y-1 transition-transform">
@@ -28,7 +28,7 @@ export default function ContactPage() {
                             </div>
                             <h3 className="font-bold text-slate-900 text-lg mb-1">Call Us</h3>
                             <p className="text-slate-500 text-sm mb-3">Mon-Fri from 8am to 5pm.</p>
-                            <a href="tel:+15550123" className="text-blue-600 font-semibold hover:underline">+1 (555) 000-0123</a>
+                            <a href="tel:+15550123" className="text-blue-600 font-semibold hover:underline">+91 95069 xxxxx</a>
                         </div>
                         
                         <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 flex flex-col items-center text-center hover:-translate-y-1 transition-transform">
@@ -37,7 +37,7 @@ export default function ContactPage() {
                             </div>
                             <h3 className="font-bold text-slate-900 text-lg mb-1">Visit Us</h3>
                             <p className="text-slate-500 text-sm mb-3">Come say hello at our HQ.</p>
-                            <span className="text-amber-600 font-semibold">123 Tech Avenue, NY</span>
+                            <span className="text-amber-600 font-semibold">BBDNIIT, Lucknow</span>
                         </div>
                     </div>
 

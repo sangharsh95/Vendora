@@ -48,16 +48,16 @@ export default function ContactPage() {
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                                 <div className="flex flex-col gap-2">
                                     <label className="text-sm font-semibold text-slate-700">First Name</label>
-                                    <input type="text" placeholder="John" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
+                                    <input type="text" placeholder="Sandeep" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
                                 </div>
                                 <div className="flex flex-col gap-2">
                                     <label className="text-sm font-semibold text-slate-700">Last Name</label>
-                                    <input type="text" placeholder="Doe" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
+                                    <input type="text" placeholder="Gaud" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
                                 </div>
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-sm font-semibold text-slate-700">Email Address</label>
-                                <input type="email" placeholder="john@example.com" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
+                                <input type="email" placeholder="sandy@example.com" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-sm font-semibold text-slate-700">Message</label>

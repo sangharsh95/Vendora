@@ -10,14 +10,6 @@ Vendora is a modern, robust full-stack e-commerce application built to deliver a
 - **Database Architecture**: Structured using Prisma ORM for efficient relational data management.
 - **Dynamic Promotions**: Built-in coupon and discount engine.
 - **Comprehensive Testing**: End-to-end and UI testing configured to ensure platform stability.
-## 👥 Meet the Team
-This project was developed collaboratively by:
-- **Sangharsh Singh Yadav**
-- **Sandeep Gaud**
-- **Varchas Pandey**
-- **Ravyansh Pandey**
-- **Rishabh Kasaudhan**
-- **Ranjeet Kumar**
 ## 🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 ### Prerequisites

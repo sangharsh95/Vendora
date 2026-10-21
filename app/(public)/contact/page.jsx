@@ -28,7 +28,7 @@ export default function ContactPage() {
                             </div>
                             <h3 className="font-bold text-slate-900 text-lg mb-1">Call Us</h3>
                             <p className="text-slate-500 text-sm mb-3">Mon-Fri from 8am to 5pm.</p>
-                            <a href="tel:+15550123" className="text-blue-600 font-semibold hover:underline">+91 95069 xxxxx</a>
+                            <a href="tel:+15550123" className="text-blue-600 font-semibold hover:underline">+91 93354 xxxxx</a>
                         </div>
                         
                         <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 flex flex-col items-center text-center hover:-translate-y-1 transition-transform">
@@ -37,7 +37,7 @@ export default function ContactPage() {
                             </div>
                             <h3 className="font-bold text-slate-900 text-lg mb-1">Visit Us</h3>
                             <p className="text-slate-500 text-sm mb-3">Come say hello at our HQ.</p>
-                            <span className="text-amber-600 font-semibold">BBDNIIT, Lucknow</span>
+                            <span className="text-amber-600 font-semibold">Vendora, Prayagraj, UP</span>
                         </div>
                     </div>
 
@@ -48,16 +48,16 @@ export default function ContactPage() {
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                                 <div className="flex flex-col gap-2">
                                     <label className="text-sm font-semibold text-slate-700">First Name</label>
-                                    <input type="text" placeholder="Sandeep" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
+                                    <input type="text" placeholder="eiicu" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
                                 </div>
                                 <div className="flex flex-col gap-2">
                                     <label className="text-sm font-semibold text-slate-700">Last Name</label>
-                                    <input type="text" placeholder="Gaud" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
+                                    <input type="text" placeholder="Singh" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
                                 </div>
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-sm font-semibold text-slate-700">Email Address</label>
-                                <input type="email" placeholder="sandy@example.com" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
+                                <input type="email" placeholder="eiicu@example.com" className="p-3 bg-slate-50 border border-slate-200 rounded-lg outline-none focus:ring-2 ring-emerald-500/20 focus:border-emerald-500 transition-all" required />
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-sm font-semibold text-slate-700">Message</label>

@@ -19,7 +19,7 @@ export default function ContactPage() {
                             </div>
                             <h3 className="font-bold text-slate-900 text-lg mb-1">Email Us</h3>
                             <p className="text-slate-500 text-sm mb-3">Drop us a line anytime.</p>
-                            <a href="mailto:support@Vendoracom" className="text-emerald-600 font-semibold hover:underline">support@Vendora.com</a>
+                            <a href="mailto:support@Vendora.com" className="text-emerald-600 font-semibold hover:underline">support@Vendora.com</a>
                         </div>
                         
                         <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 flex flex-col items-center text-center hover:-translate-y-1 transition-transform">
@@ -28,7 +28,7 @@ export default function ContactPage() {
                             </div>
                             <h3 className="font-bold text-slate-900 text-lg mb-1">Call Us</h3>
                             <p className="text-slate-500 text-sm mb-3">Mon-Fri from 8am to 5pm.</p>
-                            <a href="tel:+15550123" className="text-blue-600 font-semibold hover:underline">+91 93354 xxxxx</a>
+                            <a href="tel:+9193354xxxxx" className="text-blue-600 font-semibold hover:underline">+91 93354 xxxxx</a>
                         </div>
                         
                         <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 flex flex-col items-center text-center hover:-translate-y-1 transition-transform">

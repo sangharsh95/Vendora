@@ -80,7 +80,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <p className="py-4 text-sm text-slate-500">
-                    Copyright 2026 © Vendora All Right Reserved by Sangharsh Singh Yadav and Team.
+                    Copyright 2026 © Vendora All Right Reserved by Nivedita Singh and Team.
                 </p>
             </div>
         </footer>

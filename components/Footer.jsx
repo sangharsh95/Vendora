@@ -32,9 +32,9 @@ const Footer = () => {
         {
             title: "CONTACT",
             links: [
-                { text: "+91 93354 xxxxx", path: 'tel:+9193354xxxxx', icon: PhoneIcon },
+                { text: "+91 95069 xxxxx", path: 'tel:+9195069xxxxx', icon: PhoneIcon },
                 { text: "support@Vendora.com", path: 'mailto:support@Vendora.com', icon: MailIcon },
-                { text: "Vendora, Prayagraj, UP", path: '#', icon: MapPinIcon }
+                { text: "Vendora, Babu Banarasi Das Northern India Institute of Technology, Lucknow, UP", path: '#', icon: MapPinIcon }
             ]
         }
     ];
@@ -80,7 +80,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <p className="py-4 text-sm text-slate-500">
-                    Copyright 2026 © Vendora All Right Reserved by Nivedita Singh.
+                    Copyright 2026 © Vendora All Right Reserved by Sangharsh Singh Yadav.
                 </p>
             </div>
         </footer>
